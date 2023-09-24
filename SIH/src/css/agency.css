@@ -1,0 +1,25 @@
+.profile{
+    /* padding: 2px; */
+    border-bottom:1px solid rgb(209, 123, 123) ;
+    width: 498px;
+    height: 98px;
+    background-color: rgb(226 231 204);
+    display: flex;
+    /* align-items: center; */
+}
+.profile-pic{
+    display: flex;
+    align-items: center;
+}
+.profile-pic img{
+    height: 80px;
+    width: 80px;
+    border-radius:50% 50% ;
+}
+.profile-info{
+    padding: 10px;
+    margin-left: 10px;
+}
+.profile-info p{
+    margin: 4px 2px;
+}
